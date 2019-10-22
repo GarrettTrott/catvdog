@@ -1,0 +1,9 @@
+.catpic {
+  float: left;
+  width: 100%;
+}
+
+.dogpic {
+  float: right;
+  width: 100%;
+}
